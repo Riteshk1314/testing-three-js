@@ -1,0 +1,11 @@
+Model Information:
+* title:	Compass
+* source:	https://sketchfab.com/3d-models/compass-2b91239619e249c1ac73055ba216d5a7
+* author:	LiBinZyu (https://sketchfab.com/LiBinZyu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Compass" (https://sketchfab.com/3d-models/compass-2b91239619e249c1ac73055ba216d5a7) by LiBinZyu (https://sketchfab.com/LiBinZyu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
